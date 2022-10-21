@@ -1,0 +1,46 @@
+*{
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.encabezado{
+    font-size: 20px;
+    color: rgb(68, 66, 66);
+    font-weight:bold;
+}
+
+.imagen{
+    width: 400px;
+    height: 200px;
+}
+
+h1, h2, h3{
+    font-size: 15px;
+    color: rgb(133, 127, 127);;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+tfoot{
+    background-color: lightgray;
+}
+
+th{
+    padding: 10px;
+    background-color: rgb(102, 101, 101);
+    color: white;
+}
+
+td {
+    padding: 10px;
+}
+
+.titulo-tabla{
+    padding-left: 51px;
+    font-size: 14px;
+    margin: 0px
+}
